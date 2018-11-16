@@ -1,0 +1,67 @@
+body.basic-main-layout {
+  background-color: #272c30;
+}
+
+body.basic-main-layout .page-content {
+  min-height: 100vh !important;
+}
+
+body.basic-main-layout .basic_page-content h3.page-title {
+  background: #fff;
+  margin-top: -25px;
+  margin-left: -20px;
+  margin-right: -20px;
+  padding: 17px 20px;
+  color: #000;
+  font-weight: 500;
+  font-size: 20px;
+  border-bottom: 1px solid #E4E8EB;
+}
+
+body.basic-main-layout .btn.btn-pink {
+  color: #fff;
+  background-color: #ff6784;
+  border-color: #ff6784;
+}
+
+body.basic-main-layout .btn.btn-pink:hover {
+  background-color: #ff7b94;
+  border-color: #fb7f97;
+}
+
+body.basic-main-layout .btn.btn-pink.active {
+  background-color: #ea617c;
+  border-color: #f3778f;
+}
+
+body.basic-main-layout .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-success {
+  color: #fff;
+  background: #ff6784;
+}
+
+body.basic-main-layout .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-success:hover {
+  background-color: #ff7b94;
+  border-color: #fb7f97;
+}
+
+body.basic-main-layout .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-success {
+  color: #fff;
+  background: #ff6784;
+}
+
+body.basic-main-layout .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-success:hover {
+  background-color: #ff7b94;
+  border-color: #fb7f97;
+}
+
+body.basic-main-layout .tabbable-line > .tab-content {
+  border: 0;
+  padding: 0;
+}
+
+body.basic-main-layout .portlet.light .portlet-body {
+  padding-top: 0;
+  padding-bottom: 10px;
+}
+
+/*# sourceMappingURL=globals.css.map */
